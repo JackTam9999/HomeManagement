@@ -1,0 +1,6 @@
+@HomeManagement_HostAddress = http://localhost:5116
+
+GET {{HomeManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
